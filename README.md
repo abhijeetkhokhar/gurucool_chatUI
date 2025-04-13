@@ -28,7 +28,7 @@ A modern chat application built with **React**, **Vite**, and **Tailwind CSS**. 
 
 ## 🌍 Live Demo
 - Check out the deployed version here:
-- 👉 https://your-deployment-url.com
+- 👉 (https://chatapp-eight-silk.vercel.app/)
 
 ## 📦 Build
 - npm run build
